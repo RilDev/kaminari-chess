@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChessBoard renders chess board unchanged 1`] = `
+<div>
+  <div
+    class="border border-black"
+  >
+    <div
+      class="flex flex-row"
+    >
+      <div
+        class="w-24 h-24 bg-white"
+        data-testid="square"
+      />
+      <div
+        class="w-24 h-24 bg-black"
+        data-testid="square"
+      />
+      <div
+        class="w-24 h-24 bg-white"
+        data-testid="square"
+      />
+      <div
+        class="w-24 h-24 bg-black"
+        data-testid="square"
+      />
+    </div>
+    <div
+      class="flex flex-row"
+    >
+      <div
+        class="w-24 h-24 bg-black"
+        data-testid="square"
+      />
+      <div
+        class="w-24 h-24 bg-white"
+        data-testid="square"
+      />
+      <div
+        class="w-24 h-24 bg-black"
+        data-testid="square"
+      />
+      <div
+        class="w-24 h-24 bg-white"
+        data-testid="square"
+      />
+    </div>
+    <div
+      class="flex flex-row"
+    >
+      <div
+        class="w-24 h-24 bg-white"
+        data-testid="square"
+      />
+      <div
+        class="w-24 h-24 bg-black"
+        data-testid="square"
+      />
+      <div
+        class="w-24 h-24 bg-white"
+        data-testid="square"
+      />
+      <div
+        class="w-24 h-24 bg-black"
+        data-testid="square"
+      />
+    </div>
+    <div
+      class="flex flex-row"
+    >
+      <div
+        class="w-24 h-24 bg-black"
+        data-testid="square"
+      />
+      <div
+        class="w-24 h-24 bg-white"
+        data-testid="square"
+      />
+      <div
+        class="w-24 h-24 bg-black"
+        data-testid="square"
+      />
+      <div
+        class="w-24 h-24 bg-white"
+        data-testid="square"
+      />
+    </div>
+  </div>
+</div>
+`;

@@ -11,6 +11,7 @@ export default function ChessBoard() {
               className={`w-24 h-24 ${
                 square === "white" ? "bg-white" : "bg-black"
               }`}
+              data-testid="square"
             />
           ))}
         </div>
