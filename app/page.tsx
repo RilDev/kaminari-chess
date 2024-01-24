@@ -1,9 +1,13 @@
-import Image from "next/image";
+import Logo from "@/ui/Logo";
+import ChessBoard from "@/ui/ChessBoard";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center p-24 text-9xl">
-      ⚡️♟️
-    </main>
+    <>
+      <Logo />
+      <main className="flex min-h-screen flex-col items-center justify-center p-24">
+        <ChessBoard />
+      </main>
+    </>
   );
 }
