@@ -12,4 +12,12 @@ The lightning fast chess variant.
 
 [NextJS Testing - Official Documentation](https://nextjs.org/docs/app/building-your-application/testing)
 
+[Testing Library - testing patterns](https://testing-library.com/docs/)
+
+### SVG
+
+[SVGR for NextJS](https://react-svgr.com/docs/next/)
+
+[Tabler Icon Set](https://icon-sets.iconify.design/tabler/)
+
 [Error [ERR_REQUIRE_ESM]: require() of ES Module - Solution](https://github.com/nrwl/nx/issues/17229)
