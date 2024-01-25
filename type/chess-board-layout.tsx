@@ -1,3 +1,3 @@
-import { ChessBoardSquareColors } from "@/type";
+import { Color } from "@/type";
 
-export type ChessBoardLayout = ChessBoardSquareColors[][];
+export type ChessBoardLayout = Color[][];

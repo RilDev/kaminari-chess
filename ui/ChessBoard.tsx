@@ -1,4 +1,5 @@
 import { chessBoardLayout } from "@/data";
+import clsx from "clsx";
 
 export default function ChessBoard() {
   return (
@@ -8,9 +9,10 @@ export default function ChessBoard() {
           {row.map((square, squareIndex) => (
             <div
               key={squareIndex}
-              className={`w-24 h-24 ${
-                square === "white" ? "bg-white" : "bg-black"
-              }`}
+              className={clsx("w-24 h-24", {
+                "bg-white": square === "white",
+                "bg-black": square === "black",
+              })}
               data-testid="square"
             />
           ))}
