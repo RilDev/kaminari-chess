@@ -14,10 +14,14 @@ The lightning fast chess variant.
 
 [Testing Library - testing patterns](https://testing-library.com/docs/)
 
+[Error [ERR_REQUIRE_ESM]: require() of ES Module - Solution](https://github.com/nrwl/nx/issues/17229)
+
 ### SVG
 
 [SVGR for NextJS](https://react-svgr.com/docs/next/)
 
 [Tabler Icon Set](https://icon-sets.iconify.design/tabler/)
 
-[Error [ERR_REQUIRE_ESM]: require() of ES Module - Solution](https://github.com/nrwl/nx/issues/17229)
+### Error
+
+[What causes NextJS Warning: "Extra attributes from the server: data-new-gr-c-s-check-loaded... "](https://stackoverflow.com/a/75339011/12818567)
