@@ -39,6 +39,12 @@ The lightning fast chess variant.
 
 [Using the clsx library to toggle class names](https://nextjs.org/learn/dashboard-app/css-styling#using-the-clsx-library-to-toggle-class-names)
 
+[remove red line from under the tailwind @directives](https://github.com/tailwindlabs/tailwindcss/discussions/5258#discussioncomment-1979394)
+
+[How to use Dynamic Variables with Tailwind](https://dev.to/alanscodelog/how-to-use-dynamic-variables-with-tailwind-4309#:~:text=Tailwind%20cannot%20have%20dynamic%20values,variables%20for%20this%20to%20work.)
+
+[Inline CSS Variables with React](https://www.reddit.com/r/reactjs/comments/upqj7i/inline_css_variables/)
+
 ### Error
 
 [Jest - Error [ERR_REQUIRE_ESM]: require() of ES Module - Solution](https://github.com/nrwl/nx/issues/17229)
